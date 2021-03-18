@@ -45,7 +45,7 @@ p.intro{
     
     box-shadow: inset 0px 1px 0px 0px #54837f;
     color: #54a387;
-    background-color: linear-gradient(#007dc1, #0061a7);
+    background: linear-gradient(#007dc1, #0061a7);
     border-radius: 3px;
     border-color: 1px solid #124d77;  
 }
